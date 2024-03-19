@@ -15,7 +15,7 @@ Hi, my name is Osman Espinoza! I currently work as a Software Engineer in a Vene
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=espinozaosman&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=espinozaosman&hide=TSQL,PLSQL,SCSS%20Notebook&layout=compact&count_private=true&langs_count=8" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=espinozaosman&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
