@@ -11,7 +11,7 @@ Hi, my name is Osman Espinoza! I currently work as a Software Engineer in a Vene
 🐱‍💻 More than 6 years of experience in web development<br>
 </p>
 
-### My skills: <br/> <br/> ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
+### My skills: <br/> <br/> ![Typescript](https://img.shields.io/badge/-Typescript-ffdd19?style=flat&logoColor=white&logo=typescript&color=3178C6) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
 <center>
   <table>
     <tr>
